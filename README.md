@@ -1,5 +1,5 @@
 ### Introduction
-Hi there, my name is Juliana and this is the first time I got in contact with coding **at all**. I am super excited to have gotten so far. 
+Hi there, my name is Juliana and this is the first time I got in contact with coding **at all**. I am super excited to have gotten so far. :)
 
 ### Project Title and Date
 The project I am working on is called _Bikeshare Project_ and was created on 02/08/2024.
