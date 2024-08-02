@@ -1,10 +1,7 @@
+### Introduction
 
-
-### Project date: 02/08/2024
+### Project Title and Date
 Include the date you created this project and README file.
-
-### Bikeshare Project 
-Replace the Project Title
 
 ### Description
 Describe what your project is about and what it does
