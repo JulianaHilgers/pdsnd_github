@@ -31,7 +31,7 @@ def get_time_period():
         
     '''
     time_period = input('\nWould you like to filter the data by month, day, or not at'
-                        ' all? Type "none" for no time filter.\n')
+                        ' all? Type "none" for no filter.\n')
     
 
 
